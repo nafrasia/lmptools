@@ -1,0 +1,6 @@
+units lj
+atom_style molecular
+bond_style fene
+special_bonds fene
+angle_style harmonic
+pair_style soft 5.0
